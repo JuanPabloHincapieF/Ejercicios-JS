@@ -1,0 +1,5 @@
+// A) Un joven muy afortunado logró ganar el primer premio de la lotería... exacto, estamos hablando del pobre al que cofla le
+// dió una mano, este pobre decide hacer una fiesta para festejar que salió de la pobreza con
+// este milllonario compró una máquina que deja pasar solamente a los mayores de edad, entre otras cosas...
+//             - Dejar pasar solo a los mayores Ide edad
+//             - La primer persona que entre despues de las 2 AM, no paga.
