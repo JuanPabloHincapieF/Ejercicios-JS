@@ -15,7 +15,7 @@ if (boleto <= dinero && boleto * 2 > dinero) {
   document.write("Puedes comprar dos boletos, tu vuelto es de $" + vuelto);
 } else if (boleto * 3 <= dinero) {
   let vuelto = dinero - boleto * 3;
-  document.write("Puedes comprar tres boletos, tu vuelto es de $" + vuelto);
+  document.write("Puedes comprar tres boletos, tu vuelto es de $" + vuelto + ", regalalo");
 } else {
   document.write("No te alcanza para nada");
 }
